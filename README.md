@@ -1,9 +1,10 @@
 <html>
     <head>
-        <title>Hola mundo</title>
     </head>
     <body>
         <p> Este es un párrafo </p>
-        <a href="https://www.youtube.com/watch?v=DEkNFao5IdU" >Canción del mundial</a>
+        <h1> Canciones del mundial </h1>
+        <a href="https://www.youtube.com/watch?v=DEkNFao5IdU" >Inicio</a>
+        <a href="https://www.youtube.com/watch?v=tP9veJ17_pQ" > Final</a>
     </body>
 </html>
